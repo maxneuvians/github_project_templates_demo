@@ -1,3 +1,4 @@
 {
-  "assign_open_issues": true
+  "assign_open_issues": true,
+  "duplicate_issues": [1]
 }
